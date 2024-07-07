@@ -1,7 +1,7 @@
 <h1 align="center"> Dev Links </h1>
 
 <p align="center">
-Site exclusivo e gratuito, promovido pela Rocketseat para informações do Ministério de Familias da Esperança Joinville.
+Site exclusivo e gratuito, promovido pela Rocketseat para informações do Ministério Esperança Joinville.
 </p>
 
 <p align="center">
