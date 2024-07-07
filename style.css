@@ -115,6 +115,7 @@ ul li a {
   display: flex;
   align-items: center;
   justify-content: center;
+  text-justify: center;
 
   padding: 16px 24px;
 
